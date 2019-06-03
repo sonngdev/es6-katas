@@ -1,6 +1,6 @@
 # ES6 Katas
 
-Info: [](http://es6katas.org)
+Info: http://es6katas.org
 
 A [p1tx-guides](https://github.com/P1xt/p1xt-guides) process.
 
